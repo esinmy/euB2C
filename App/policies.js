@@ -10,11 +10,11 @@ const b2cPolicies = {
     },
     authorities: {
         signUpSignIn: {
-            authority: "https://09052023eu.b2clogin.com/09052023eu.onmicrosoft.com/B2C_1_signupsignin1",
+            authority: "https://09052023aulocal.b2clogin.com/09052023aulocal.onmicrosoft.com/B2C_1_signupsignin1",
         },
         editProfile: {
-            authority: "https://09052023eu.b2clogin.com/09052023eu.onmicrosoft.com/B2C_1_profileediting1"
+            authority: "https://09052023aulocal.b2clogin.com/09052023aulocal.onmicrosoft.com/B2C_1_profileediting1"
         }
     },
-    authorityDomain: "09052023eu.b2clogin.com"
+    authorityDomain: "09052023aulocal.b2clogin.com"
 }
